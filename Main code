@@ -1,0 +1,7 @@
+Let's make a game!
+  name: test
+
+Resources
+  *iron
+  name: Iron
+  desc: Some strong metal that can't be bended by humans
